@@ -4,7 +4,7 @@
 This project aims to predict customer churn for a telecom company, assisting the business in identifying and retaining at-risk customers. We used various machine learning models to predict whether customers would churn based on their data profiles. This repository contains all the codes and files used in this analysis.
 
 ## Team 👥
-- **Aeraf Mohammed Khan**
+- **Mohammed Aeraf Khan**
 - **Madhur Saluja**
 - **Tasbi Tasbi**
 
