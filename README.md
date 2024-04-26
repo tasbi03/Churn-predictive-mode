@@ -20,7 +20,7 @@ This project aims to predict customer churn for a telecom company, assisting the
 - [Methodology](#methodology)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [License](#license)
+- [Detailed Report](#Report)
 
 ## Installation 🛠
 To set up the project environment, run the following commands:
