@@ -56,5 +56,6 @@ The Logistic Regression model exhibited notable performance improvements after S
 
 This project demonstrates the effectiveness of machine learning in predicting customer churn. The insights derived from this analysis can help telecom companies implement more focused customer retention strategies.
 
-## Detailed Report 
+## Detailed Report
+For more in-depth analysis, you can view the [Detailed Analysis Report](Report.pdf).
 
