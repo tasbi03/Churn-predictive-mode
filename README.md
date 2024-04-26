@@ -12,7 +12,7 @@ This project aims to predict customer churn for a telecom company, assisting the
 
 ## Badges 🏆
 ![Python](https://img.shields.io/badge/python-3.8-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue.svg)
 
 ## Table of Contents 🗂
 - [Installation](#installation)
